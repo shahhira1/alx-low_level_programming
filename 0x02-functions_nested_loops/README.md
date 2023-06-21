@@ -1,1 +1,1 @@
-readme funcation loops
+readme for functions loops
